@@ -16,6 +16,7 @@ gen64() {
 }
 
 install_bkns() {
+    echo "test"
 }
 
 install_proxy() {
